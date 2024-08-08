@@ -1,0 +1,153 @@
+.con{
+    
+    
+    position: fixed;
+    font-size: 50px;
+    bottom: 10px;
+    right: 10px;
+    z-index: 343;
+    
+
+}
+.sec{
+    height: 300px;
+
+    background-image: linear-gradient( 90deg, hsla(240, 65%, 18%, 0.569) 33%,  hsla(240, 49%, 30%, 0.363) 61% ),url('/imgs/newaboutus.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    
+   
+}
+
+.box{
+
+    background-color: rgb(231, 191, 11);
+    height: 350px;
+    width: 500px;
+    position: relative;
+    top: 5px;
+    z-index: -1;
+    left: 30px;
+}
+.bo{
+    align-self: center;
+
+    text-align: start;
+    height: 300px;
+    width: 300px;
+    
+}
+
+.main{
+    display: flex;
+}
+.ab{
+    position: relative;
+    bottom: 260px;
+}
+.bc{
+    height: 80px;
+    padding: auto;
+
+    background: linear-gradient(64deg, rgb(231, 191, 11) 16%, rgb(4, 4, 92) 18%, rgb(4, 4, 92) 83%, rgb(231, 191, 11) -372%);
+}
+.li{
+    
+    list-style: none;
+    margin-right: 100px;
+    display: block;
+    font-weight: 500;
+    line-height: 2;
+}
+.sec2{
+    background-image: url(/imgs/images.jpg);
+    background-attachment: fixed;
+    background-size: cover;
+}
+.cd{
+    border: 7px solid rgb(3, 3, 92);
+    height: 150px;
+    background: linear-gradient(141deg,rgb(231, 191, 11) 22%, rgb(3, 3, 92) 16%);
+}
+.ef{
+    height: 120px;
+    background-image: linear-gradient( 90deg, hsla(240, 6%, 39%, 0.569) 33%,  hsla(240, 14%, 63%, 0.363) 61% ),url('/imgs/item-bg-1.jpg ');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.fg{
+    height: 120px;
+    background-image: linear-gradient( 90deg,  hsla(240, 6%, 39%, 0.569) 33%,  hsla(240, 14%, 63%, 0.363) 61% ),url('/imgs/item-bg-2.jpg ');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.gh{
+    height: 120px;
+    background-image: linear-gradient( 90deg,  hsla(240, 6%, 39%, 0.569) 33%,  hsla(240, 14%, 63%, 0.363) 61% ),url('/imgs/item-bg-3.jpg ');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.jk{
+    height: 200px;
+    background: rgb(231, 191, 11)
+    
+
+}
+.kl{
+    height: 350px;
+    background-image: linear-gradient(33deg, hsl(44deg 92.43% 41.74% / 56.9%) 13%,  hsla(240, 12%, 90%, 0.363) 16%),url('/imgs/slider-5.jpg');
+    position: relative;
+    bottom:140px; 
+    left: 120px;
+    text-align: center;
+
+    
+}
+.kl i{
+    color: rgb(231, 191, 11);
+    font-size: 70px;
+ position: relative;
+ top: 120px;
+
+}
+
+.sec4{
+    height: 400px;
+    background-image: url(/imgs/faq-bg.png);
+}
+.dm{
+    padding-right: 930px;
+    font-weight: bold;
+}
+.sec5{
+    height: 300px;
+    background-image: linear-gradient( 90deg, hsla(240, 47%, 36%, 0.569) 33%,  hsla(240, 63%, 33%, 0.363) 61% ),url('/imgs/testimonial-bg.jpg ');
+}
+.lm{ 
+    border: 2px solid black;
+    text-align: center;
+    justify-items: center;
+    background: linear-gradient(35deg, rgb(231, 191, 11) 14%, #eddfdf 13% , #efe3e3 88%, rgb(231, 191, 11) 86% );
+
+}
+.sec6 li{
+    margin-right: 100px;
+    display: block;
+    line-height: 3px;
+}
+.accordion-item {
+    border-left: 5px solid rgb(231, 191, 11); 
+}
+.mn li{
+ list-style: none;
+ line-height: 3;
+}
+.no i{
+    font-size: 30px;
+    border: 2px;
+    background-color: rgb(231, 191, 11) ;
+    margin: 5px;
+    padding: 5px;
+}
